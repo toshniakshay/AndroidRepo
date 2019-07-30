@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="idea_text_margintop">20sp</dimen>
+    <dimen name="login_img_marginleft">60dp</dimen>
+    <dimen name="title">40sp</dimen>
+    <dimen name="counter_size">50sp</dimen>
+    <dimen name="counter_btn_left">30</dimen>
+    <dimen name="counter_btn_top">20</dimen>
 </resources>

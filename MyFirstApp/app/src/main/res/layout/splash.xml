@@ -6,8 +6,8 @@
 
     <ImageView
         android:id="@+id/idea"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="182dp"
+        android:layout_height="185dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="100sp"
         android:src="@drawable/idea" />
@@ -18,6 +18,6 @@
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="@dimen/idea_text_margintop"
         android:text="@string/str_idea"
-        android:textColor="#800000"
-        android:textSize="20sp" />
+        style="@style/TextviewStyle"
+        android:textSize="@dimen/idea_text_margintop" />
 </LinearLayout>
