@@ -16,7 +16,7 @@ public class Counter extends AppCompatActivity {
     private int nCounter = 0;
 
 
-    MediaPlayer mediaPlayer;
+    private MediaPlayer mediaPlayer;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
